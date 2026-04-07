@@ -68,6 +68,9 @@ a{
 
 
 .credid{
+    position: absolute;
+    bottom: 0;
+    left: 0;
     background-position: center;
     width: 250px;
     height: auto;
