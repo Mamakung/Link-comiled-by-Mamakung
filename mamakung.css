@@ -42,10 +42,11 @@ img{
     background-color: #111;
     border: double 5px;
     box-sizing: border-box;
+    color: #fff;
 }
 
 a{
-    color: #fff;
+    
     text-align: center;
     text-decoration: none;
     font-size: medium;
